@@ -22,4 +22,18 @@ Vanilla JavaScript
 Parcel
 NPM
 
+# installazione:
+
+- Clona questo repository:
+
+      https://github.com/mehdiviolet/forkify-mehdi.git
+
+- Installa le dipendenze:
+
+      npm install
+
+- Esegui applicazione:
+
+      npm start
+
 # Rappresentazioni Grafiche:
