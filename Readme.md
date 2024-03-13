@@ -2,6 +2,8 @@
 
 Forkify è un'applicazione sviluppata con Vanilla JavaScript e interagisce con l'API Forkify per fornire ricette e ingredienti per più di 1.000.000 di piatti.
 
+<https://forkify-mehdi.netlify.app/>
+
 # Descrizione:
 
 L'utente può facilmente aumentare o diminuire le porzioni secondo le sue necessità e visualizzare indicazioni dettagliate. In base alla variazione delle porzioni, verrà modificato anche il tempo di cottura. Inoltre, è possibile per l'utente creare la propria ricetta e salvarla nell'elenco dei preferiti come bookmark.
