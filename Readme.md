@@ -15,7 +15,7 @@ L'idea originale del progetto è stata proposta e creata da Jonas Schmedtmann ne
 - Ricerca ricette: Trova ricette utilizzando parole chiave o ingredienti.
 - Visualizza dettagli ricetta: Consulta ingredienti, istruzioni di cottura e porzioni.
 - Salva le ricette: Salva le tue ricette preferite per dopo.
-- Aggiungi ricette: Crea e condividi le tue ricette.
+- Aggiungi le ricette: Crea e condividi le tue ricette.
 - Paginazione: Naviga facilmente tra i risultati della ricerca.
 
 # Linguaggi di sviluppo:
