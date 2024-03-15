@@ -6,7 +6,7 @@ class BookmarkView extends View {
   _errorMessage = 'No bookmarks yet. Find a nice recipe and bookmark it :)';
 
   _generateMerkup() {
-    // console.log(this._data);
+    console.log(this._data);
     return this._data.map(this._generateMerkupPreview).join('');
   }
 

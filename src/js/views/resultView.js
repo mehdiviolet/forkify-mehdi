@@ -12,7 +12,7 @@ class ResultView extends View {
 
   _generateMerkupPreview(ing) {
     const id = window.location.hash.slice(1);
-    // console.log(ing);
+    console.log(ing);
     return `
     <li class="preview">
     <a class="preview__link ${
